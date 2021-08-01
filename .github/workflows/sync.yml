@@ -25,5 +25,5 @@ jobs:
         with:
           source_repo: "https://github.com/shufflewzc/faker2.git"
           source_branch: "main"
-          destination_branch: ""
+          destination_branch: "JX"
           github_token: ${{ secrets.PAT }}
